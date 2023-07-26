@@ -15,11 +15,11 @@ Harry Styles es uno de los artistas del momento, por lo que mediante una descrip
 En este proyecto me enfoqué en construir una página introductoria a Harry Styles.
 Contiene las siguientes secciones:
 
-* Head: Sección que involucra 
+* Head: Sección que involucra el título de la página. 
 
-* Body: Sección del la descripción del artista  .
+* Body: Sección de la descripción del artista así como algunos ejemplos de sus canciones en Spotify .
 
-* Footer: Sección que incluye hipervínculos al final de la página.
+* Footer: Sección que incluye el bootcamp donde fue realizado.
 
 ## 3. Objetivo del Proyecto
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
