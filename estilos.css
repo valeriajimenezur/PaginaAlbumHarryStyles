@@ -1,0 +1,74 @@
+
+body{
+    background: rgb(246,63,235);
+background: radial-gradient(circle, rgba(246,63,235,1) 0%, rgba(221,246,0,1) 100%);
+    color:#ffffff;
+    font-family: 'Lobster', cursive;
+}
+
+li{
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center; /* centramos en el eje horizontal*/
+    justify-content: space-evenly; /* Aplicamos separación a los elementos dentro del ul */
+    
+}
+
+h3{
+    color:#9aff85;
+    text-align: center;
+    font-size: 70px;   
+}
+
+iframe{
+    margin-left: 120px;
+}
+
+p{
+    color:#9aff85;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+h1{
+    color:white;
+    text-align:center;
+    font-size: 100px;
+}
+
+
+
+small{
+    color:aqua
+}
+
+a{
+    color:#fe0059
+}
+
+/*Edicion del banner*/
+
+section{
+    margin: 0 auto;
+    margin-top: 46px;
+    display: flex;
+    width: 1000px;
+    height: 430px;
+}
+
+section img{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity:.8;
+    transition: .7s ease-in-out;
+}
+
+section img:hover{
+    cursor:crosshair;
+    width: 300px;
+    opacity: 1;
+    filter: contrast(120%);
+}
