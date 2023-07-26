@@ -15,9 +15,9 @@ Harry Styles es uno de los artistas del momento, por lo que mediante una descrip
 En este proyecto me enfoqué en construir una página introductoria a Harry Styles.
 Contiene las siguientes secciones:
 
-* Header: Sección que involucra el nombre del artista.
+* Head: Sección que involucra 
 
-* Main: Sección del .
+* Body: Sección del la descripción del artista  .
 
 * Footer: Sección que incluye hipervínculos al final de la página.
 
